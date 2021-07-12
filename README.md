@@ -1,0 +1,3 @@
+# SQLift
+
+SQLite Swift wrapper.
